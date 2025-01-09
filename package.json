@@ -39,14 +39,14 @@
     "webpack": "^5.88.2",
     "webpack-bundle-analyzer": "^4.9.1",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.15.1"
-  },
-  "dependencies": {
+    "webpack-dev-server": "^4.15.1",
     "@pmmmwh/react-refresh-webpack-plugin": "^0.5.11",
     "@svgr/webpack": "^8.1.0",
+    "react-refresh-typescript": "^2.0.9"
+  },
+  "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-refresh-typescript": "^2.0.9",
     "react-router-dom": "^6.16.0"
   }
 }
